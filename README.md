@@ -1,6 +1,103 @@
-Cyber Security 1337 RSS
+# Cyber Security 1337 RSS
+-----
 
-How to: <br>
-Import into RSS Feed.
+## How to: <br>
+* ### Import into RSS Feed.
+-----
 
-That's it.
+### Here is the list of the sources used in the file: <br>
+
+- The Cloudflare Blog
+- AWS News Blog
+- Ctrl blog
+- Google Security Blog
+- NCC Group Research Blog
+- Rossmann Repair Group
+- S3cur3Th1sSh1t
+- Cointelegraph
+- Decrypt
+- 0dayfans
+- Bug Alert
+- Exploit Collector
+- Exploit-DB.com
+- Exploitee.rs
+- Dorksploit
+- Sploitus
+- CXSecurity
+- VMware Security Advisory
+- Vulmon Research Main Post Feed
+- Vulnerability-Lab
+- CyberCrime & Doing Time
+- GarWarner's Blog
+- The Guardian
+- DarknetLive Post Feed
+- Another Forensic Blog
+- Brett Shavers
+- Cheeky4n6Monkey
+- DFIR Diva
+- DF Stream
+- Doubleblak
+- Hacking Exposed Computer Forensics Blog
+- InitialiZED
+- Salt 4n6
+- Smarter Forensics
+- The Binary Hick
+- ThinkDFIR
+- Windows Incident Response
+- Yogesh Khatri's Blog
+- Binary Foray
+- forensicmike1
+- IntelTechniques Blog
+- 13Cubed
+- DFIR Python Study Group
+- Magnet Forensics Presents: Cache Up
+- Mobile Forensics
+- Amped Software Blog
+- Forensic Focus
+- Forensic Photoshop Blog
+- MSAB Blog
+- Magnet Forensics Blog
+- SANS Digital Forensics Blog
+- This Week In 4n6
+- sleuthkit.org Updates
+- Fox News Tech
+- Fox News Videos
+- Blackhat Ethical Hacking
+- Group-IB
+- GBHackers.com
+- Hacker Combat
+- HackRead
+- Help Net Security
+- IT Security Guru
+- KnowBe4 Blog
+- Latest Hacking News
+- ZDNet
+- Security Affairs
+- SecurityWeek
+- The Daily Swig
+- The Record
+- The Register
+- Threatpost
+- News4Hackers
+- Security Now Episodes
+- Security Talk
+- Security Weekly News
+- Threat Wire - Security, Privacy, and Internet Freedom News!
+- Bleeping Computer
+- Cybereason Blog
+- NSHC Red Alert
+- Zscaler Blog
+- CISA Blog
+- Check Point Research
+- Cisco Talos Blog
+- ClearSky Security Blog
+- Flashpoint Blog
+- Malware News
+- Kaspersky Daily
+- Krebs on Security
+- Malwarebytes Blog
+- Proofpoint Blog
+- Recorded Future Blog
+- Virus Bulletin's blog
+- WeLiveSecurity
+
